@@ -15,3 +15,8 @@ class DataValidationConfig:
     STATUS_FILE:str
     unzip_data_dir:Path
     all_schema:dict
+
+@dataclass(frozen=True)  #this is not python class but dataclass, here you can define the veriables without using self keyword.
+class DataTransformationConfig:
+    root_dir:Path
+    data_path: Path
