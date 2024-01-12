@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ravina/Desktop/project_mlflow/mlruns/0/7c0ccb614a63427cbecc986a67bfe272/artifacts
+end_time: 1705061556086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c0ccb614a63427cbecc986a67bfe272
+run_name: puzzled-shrew-141
+run_uuid: 7c0ccb614a63427cbecc986a67bfe272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705061554359
+status: 3
+tags: []
+user_id: ravina
