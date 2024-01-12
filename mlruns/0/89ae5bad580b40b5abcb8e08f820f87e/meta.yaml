@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ravina/Desktop/project_mlflow/mlruns/0/89ae5bad580b40b5abcb8e08f820f87e/artifacts
+end_time: 1705059359174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89ae5bad580b40b5abcb8e08f820f87e
+run_name: delicate-shark-233
+run_uuid: 89ae5bad580b40b5abcb8e08f820f87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705059356629
+status: 3
+tags: []
+user_id: ravina

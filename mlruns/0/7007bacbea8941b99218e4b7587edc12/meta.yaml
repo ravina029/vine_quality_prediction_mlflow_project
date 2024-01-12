@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ravina/Desktop/project_mlflow/mlruns/0/7007bacbea8941b99218e4b7587edc12/artifacts
+end_time: 1705058255108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7007bacbea8941b99218e4b7587edc12
+run_name: unique-wolf-344
+run_uuid: 7007bacbea8941b99218e4b7587edc12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705058255097
+status: 4
+tags: []
+user_id: ravina
