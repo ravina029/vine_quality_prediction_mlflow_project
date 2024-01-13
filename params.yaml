@@ -1,4 +1,8 @@
 ElasticNet:
-  alpha: 0.5
-  l1_ratio: 0.7
+  alpha: 0.1
+  l1_ratio: 0.2
+
+
+
+#by changing these parameters you can get the best model by comparing in the mlflow 
   

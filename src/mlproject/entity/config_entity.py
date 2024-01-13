@@ -31,4 +31,17 @@ class ModelTrainerConfig:
     alpha:float
     l1_ratio:float
     target_column: str
+
+
+
+
+@dataclass(frozen=True)  #this is not python class but dataclass, here you can define the veriables without using self keyword.
+class ModelEvaluationConfig:
+    root_dir:Path
+    test_data_path: Path
+    model_path: Path
+    all_params: dict
+    metric_file_name:Path
+    target_column: str
+    mlflow_uri: str
     
