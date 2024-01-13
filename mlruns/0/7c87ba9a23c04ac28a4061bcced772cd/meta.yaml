@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ravina/Desktop/project_mlflow/mlruns/0/7c87ba9a23c04ac28a4061bcced772cd/artifacts
+end_time: 1705063456909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c87ba9a23c04ac28a4061bcced772cd
+run_name: enthused-bee-442
+run_uuid: 7c87ba9a23c04ac28a4061bcced772cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705063455020
+status: 3
+tags: []
+user_id: ravina
