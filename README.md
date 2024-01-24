@@ -25,11 +25,11 @@ https://github.com/ravina029/mlflow_project
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mlproj python=3.8 -y
+conda create -n newvenv python=3.10 -y
 ```
 
 ```bash
-conda activate mlproj
+conda activate newvenv
 ```
 
 
